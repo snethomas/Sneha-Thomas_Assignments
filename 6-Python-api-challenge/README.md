@@ -1,0 +1,1 @@
+For "Part 1: WeatherPy" linear regression plots - I wrote a single function to create all plots - but the order of charts is as expected in the starter code - ie Northern followed by Southern Hemispehere for each relatiosnhip.
